@@ -8,6 +8,7 @@ node_modules/
 dist/
 web-build/
 
+
 # Native
 *.orig.*
 *.jks
@@ -30,6 +31,9 @@ yarn-error.*
 
 # local env files
 .env*.local
+.eslintrc.js
 
 # typescript
 *.tsbuildinfo
+
+
